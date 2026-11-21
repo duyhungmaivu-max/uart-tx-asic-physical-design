@@ -1,0 +1,13 @@
+# OpenROAD generated databases
+*.odb
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Editor files
+.vscode/
+
+# Generated logs
+*.log
